@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @GaPimentel
 - 👀 I'm interested in understanding how things work and admire nature in its uniqueness.
-- 🌱 I'm learning software development at the Trybe.
+- 🌱 I'm learning English and software development on the Trybe course.
 - 💞️ I'm looking to collaborate on things that will make the world better for my daughter.
 - 📫 How to reach me cadgap@gmail.com
 
